@@ -1,0 +1,4 @@
+pyasn1>=0.4.5
+pyasn1-modules>=0.2.5
+python-ldap>=3.2.0
+colorama>=0.4.6
